@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="Base.Theme.TugasHadiahTask" parent="Theme.Material3.DayNight">
+
+        <item name="android:textSize">14sp</item>
+        <item name="backgroundColor">@color/biru</item>
+    </style>
+
+    <style name="AppThemeNoAc" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+
+    <style name="Theme.TugasHadiahTask" parent="Base.Theme.TugasHadiahTask" />
+
+    <style name="CustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">16sp</item>
+
+    </style>
+
+</resources>
